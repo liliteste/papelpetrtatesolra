@@ -18,3 +18,4 @@ sleep(1)
 print()
 print(f"O computador escolheu: {intens[comp]}")
 print(f"O jogador  jogou: {intens[jogador]}")
+#Mudar para proximo arquivo
