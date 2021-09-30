@@ -1,6 +1,6 @@
 from  random  import randint
 from time import *
-intens = ['pedra', 'papel','Tesolra']
+intens = ['pedra', 'pepel','Tesolra']
 comp = randint(0,2)
 
 print('''Suas opeções:
