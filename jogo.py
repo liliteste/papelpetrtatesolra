@@ -21,7 +21,7 @@ while True:
 
         print("JO")
         sleep(1)
-        print("KEE...")
+        print("KEEE...")
         sleep(2)
         print("PO!!!")
         sleep(1)
