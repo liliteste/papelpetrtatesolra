@@ -23,7 +23,7 @@ while True:
         sleep(1)
         print("KEEE...")
         sleep(2)
-        print("PO!!!")
+        print("POO!!")
         sleep(1)
         print()
         print(f"O computador escolheu: {intens[comp]}")
