@@ -10,7 +10,7 @@ print('''Suas opeções:
 print()
 jogador = int(input("Escolha sua jogada? "))
 print("JO")
-sleep(2)
+sleep(1)
 print("KEEE...")
 sleep(3)
 print("POO!!!")
