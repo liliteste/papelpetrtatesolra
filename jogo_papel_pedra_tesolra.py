@@ -8,7 +8,7 @@ print('''Suas opeções:
 [1] Papel
 [2] Tesolra ''')
 print()
-jogador = int(input("Escolha sua jogada? "))
+jogador = int(input("Escolha sua jogada ?: "))
 print("JO")
 sleep(1)
 print("KEEE...")
