@@ -8,14 +8,18 @@ print('''Suas opeções:
 [1] Papel
 [2] Tesolra ''')
 print()
+
 jogador = int(input("Escolha Sua jogada? "))
+
+
+
 print("JO")
 sleep(1)
 print("KEEE...")
 sleep(3)
-print("POO!!!")
+print("POO
 sleep(1)
 print()
 print(f"O computador escolheu: {intens[comp]}")
 print(f"O jogador  jogou: {intens[jogador]}")
-#Mudar para proximo arquivo
+#Mudar Para o Proximo Arquivo
