@@ -16,7 +16,7 @@ jogador = int(input("Escolha Sua jogada? "))
 print("JO")
 sleep(1)
 print("KEEE...")
-sleep(3)
+sleep(2)
 print("POO
 sleep(1)
 print()
